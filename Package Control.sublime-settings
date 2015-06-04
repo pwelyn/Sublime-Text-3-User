@@ -1,0 +1,38 @@
+{
+	"in_process_packages":
+	[
+	],
+	"installed_packages":
+	[
+		"ApplySyntax",
+		"AutoFileName",
+		"Better Completion",
+		"BracketHighlighter",
+		"ChineseLocalization",
+		"Codecs33",
+		"ConvertToUTF8",
+		"CTags",
+		"DeleteBlankLines",
+		"DocBlockr",
+		"FileDiffs",
+		"HexViewer",
+		"MarkdownEditing",
+		"Package Control",
+		"SequenceGenerator",
+		"SideBarEnhancements",
+		"Smali",
+		"SublimeCodeIntel",
+		"SublimeLinter",
+		"SublimeLinter-html-tidy",
+		"Terminal",
+		"Theme - Soda",
+		"Themr",
+		"Tradsim",
+		"TrailingSpaces",
+		"UnicodeMath"
+	],
+	"repositories":
+	[
+		"https://github.com/shuax/SequenceGenerator"
+	]
+}
